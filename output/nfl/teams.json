@@ -5,38 +5,8 @@
         "sport": "nfl"
     },
     {
-        "key": "kansas-city-chiefs",
-        "short_name": "kc",
-        "sport": "nfl"
-    },
-    {
-        "key": "kansas-city-chiefs",
-        "short_name": "kc",
-        "sport": "nfl"
-    },
-    {
         "key": "minnesota-vikings",
         "short_name": "min",
-        "sport": "nfl"
-    },
-    {
-        "key": "minnesota-vikings",
-        "short_name": "min",
-        "sport": "nfl"
-    },
-    {
-        "key": "minnesota-vikings",
-        "short_name": "min",
-        "sport": "nfl"
-    },
-    {
-        "key": "washington-commanders",
-        "short_name": "wsh",
-        "sport": "nfl"
-    },
-    {
-        "key": "washington-commanders",
-        "short_name": "wsh",
         "sport": "nfl"
     },
     {
@@ -50,38 +20,8 @@
         "sport": "nfl"
     },
     {
-        "key": "houston-texans",
-        "short_name": "hou",
-        "sport": "nfl"
-    },
-    {
-        "key": "houston-texans",
-        "short_name": "hou",
-        "sport": "nfl"
-    },
-    {
         "key": "pittsburgh-steelers",
         "short_name": "pit",
-        "sport": "nfl"
-    },
-    {
-        "key": "pittsburgh-steelers",
-        "short_name": "pit",
-        "sport": "nfl"
-    },
-    {
-        "key": "pittsburgh-steelers",
-        "short_name": "pit",
-        "sport": "nfl"
-    },
-    {
-        "key": "seattle-seahawks",
-        "short_name": "sea",
-        "sport": "nfl"
-    },
-    {
-        "key": "seattle-seahawks",
-        "short_name": "sea",
         "sport": "nfl"
     },
     {
@@ -95,38 +35,8 @@
         "sport": "nfl"
     },
     {
-        "key": "buffalo-bills",
-        "short_name": "buf",
-        "sport": "nfl"
-    },
-    {
-        "key": "buffalo-bills",
-        "short_name": "buf",
-        "sport": "nfl"
-    },
-    {
         "key": "detroit-lions",
         "short_name": "det",
-        "sport": "nfl"
-    },
-    {
-        "key": "detroit-lions",
-        "short_name": "det",
-        "sport": "nfl"
-    },
-    {
-        "key": "detroit-lions",
-        "short_name": "det",
-        "sport": "nfl"
-    },
-    {
-        "key": "atlanta-falcons",
-        "short_name": "atl",
-        "sport": "nfl"
-    },
-    {
-        "key": "atlanta-falcons",
-        "short_name": "atl",
         "sport": "nfl"
     },
     {
@@ -140,38 +50,8 @@
         "sport": "nfl"
     },
     {
-        "key": "tampa-bay-buccaneers",
-        "short_name": "tb",
-        "sport": "nfl"
-    },
-    {
-        "key": "tampa-bay-buccaneers",
-        "short_name": "tb",
-        "sport": "nfl"
-    },
-    {
         "key": "new-york-jets",
         "short_name": "nyj",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-york-jets",
-        "short_name": "nyj",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-york-jets",
-        "short_name": "nyj",
-        "sport": "nfl"
-    },
-    {
-        "key": "indianapolis-colts",
-        "short_name": "ind",
-        "sport": "nfl"
-    },
-    {
-        "key": "indianapolis-colts",
-        "short_name": "ind",
         "sport": "nfl"
     },
     {
@@ -185,38 +65,8 @@
         "sport": "nfl"
     },
     {
-        "key": "new-orleans-saints",
-        "short_name": "no",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-orleans-saints",
-        "short_name": "no",
-        "sport": "nfl"
-    },
-    {
         "key": "baltimore-ravens",
         "short_name": "bal",
-        "sport": "nfl"
-    },
-    {
-        "key": "baltimore-ravens",
-        "short_name": "bal",
-        "sport": "nfl"
-    },
-    {
-        "key": "baltimore-ravens",
-        "short_name": "bal",
-        "sport": "nfl"
-    },
-    {
-        "key": "dallas-cowboys",
-        "short_name": "dal",
-        "sport": "nfl"
-    },
-    {
-        "key": "dallas-cowboys",
-        "short_name": "dal",
         "sport": "nfl"
     },
     {
@@ -230,38 +80,8 @@
         "sport": "nfl"
     },
     {
-        "key": "los-angeles-chargers",
-        "short_name": "lac",
-        "sport": "nfl"
-    },
-    {
-        "key": "los-angeles-chargers",
-        "short_name": "lac",
-        "sport": "nfl"
-    },
-    {
         "key": "las-vegas-raiders",
         "short_name": "lv",
-        "sport": "nfl"
-    },
-    {
-        "key": "las-vegas-raiders",
-        "short_name": "lv",
-        "sport": "nfl"
-    },
-    {
-        "key": "las-vegas-raiders",
-        "short_name": "lv",
-        "sport": "nfl"
-    },
-    {
-        "key": "philadelphia-eagles",
-        "short_name": "phi",
-        "sport": "nfl"
-    },
-    {
-        "key": "philadelphia-eagles",
-        "short_name": "phi",
         "sport": "nfl"
     },
     {
@@ -275,38 +95,8 @@
         "sport": "nfl"
     },
     {
-        "key": "denver-broncos",
-        "short_name": "den",
-        "sport": "nfl"
-    },
-    {
-        "key": "denver-broncos",
-        "short_name": "den",
-        "sport": "nfl"
-    },
-    {
         "key": "green-bay-packers",
         "short_name": "gb",
-        "sport": "nfl"
-    },
-    {
-        "key": "green-bay-packers",
-        "short_name": "gb",
-        "sport": "nfl"
-    },
-    {
-        "key": "green-bay-packers",
-        "short_name": "gb",
-        "sport": "nfl"
-    },
-    {
-        "key": "chicago-bears",
-        "short_name": "chi",
-        "sport": "nfl"
-    },
-    {
-        "key": "chicago-bears",
-        "short_name": "chi",
         "sport": "nfl"
     },
     {
@@ -320,38 +110,8 @@
         "sport": "nfl"
     },
     {
-        "key": "san-francisco-49ers",
-        "short_name": "sf",
-        "sport": "nfl"
-    },
-    {
-        "key": "san-francisco-49ers",
-        "short_name": "sf",
-        "sport": "nfl"
-    },
-    {
         "key": "new-england-patriots",
         "short_name": "ne",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-england-patriots",
-        "short_name": "ne",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-england-patriots",
-        "short_name": "ne",
-        "sport": "nfl"
-    },
-    {
-        "key": "tennessee-titans",
-        "short_name": "ten",
-        "sport": "nfl"
-    },
-    {
-        "key": "tennessee-titans",
-        "short_name": "ten",
         "sport": "nfl"
     },
     {
@@ -365,38 +125,8 @@
         "sport": "nfl"
     },
     {
-        "key": "cleveland-browns",
-        "short_name": "cle",
-        "sport": "nfl"
-    },
-    {
-        "key": "cleveland-browns",
-        "short_name": "cle",
-        "sport": "nfl"
-    },
-    {
         "key": "arizona-cardinals",
         "short_name": "ari",
-        "sport": "nfl"
-    },
-    {
-        "key": "arizona-cardinals",
-        "short_name": "ari",
-        "sport": "nfl"
-    },
-    {
-        "key": "arizona-cardinals",
-        "short_name": "ari",
-        "sport": "nfl"
-    },
-    {
-        "key": "los-angeles-rams",
-        "short_name": "lar",
-        "sport": "nfl"
-    },
-    {
-        "key": "los-angeles-rams",
-        "short_name": "lar",
         "sport": "nfl"
     },
     {
@@ -410,26 +140,6 @@
         "sport": "nfl"
     },
     {
-        "key": "miami-dolphins",
-        "short_name": "mia",
-        "sport": "nfl"
-    },
-    {
-        "key": "miami-dolphins",
-        "short_name": "mia",
-        "sport": "nfl"
-    },
-    {
-        "key": "cincinnati-bengals",
-        "short_name": "cin",
-        "sport": "nfl"
-    },
-    {
-        "key": "cincinnati-bengals",
-        "short_name": "cin",
-        "sport": "nfl"
-    },
-    {
         "key": "cincinnati-bengals",
         "short_name": "cin",
         "sport": "nfl"
@@ -440,38 +150,8 @@
         "sport": "nfl"
     },
     {
-        "key": "carolina-panthers",
-        "short_name": "car",
-        "sport": "nfl"
-    },
-    {
-        "key": "carolina-panthers",
-        "short_name": "car",
-        "sport": "nfl"
-    },
-    {
         "key": "new-york-giants",
         "short_name": "nyg",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-york-giants",
-        "short_name": "nyg",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-york-giants",
-        "short_name": "nyg",
-        "sport": "nfl"
-    },
-    {
-        "key": "jacksonville-jaguars",
-        "short_name": "jax",
-        "sport": "nfl"
-    },
-    {
-        "key": "jacksonville-jaguars",
-        "short_name": "jax",
         "sport": "nfl"
     },
     {

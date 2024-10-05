@@ -1,7 +1,7 @@
 import os
 import sys
 
-from typing import List
+from typing import Dict
 
 sys.path.insert(0, './src')
 
@@ -23,24 +23,25 @@ def run(sport: str) -> None:
     if not sport in mappings:
         raise NotImplemented()
     
-    teams: List[Team] = []
-    config = mappings[sport]
+    teams: Dict[Team] = {}
 
+    config = mappings[sport]
     bs = make_request(url=config['source'])
     for link in bs.select('.team-link .AnchorLink'):
         team = extractTeamFromUrl(link['href'])
+
         if team:
-            teams.append(team)
+            teams[team.key] = team
 
         team.to_json()
 
     with open(os.path.join(config['output'], 'teams.json'), 'w') as output_file:
         output_file.write(
-            Team.schema().dumps(teams, many=True, indent=4)
+            Team.schema().dumps(list(teams.values()), many=True, indent=4)
         )
 
 if __name__ == '__main__':
     sport = sys.argv[1]
     assert sport in sports
-    
+
     run(sport)

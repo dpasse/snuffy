@@ -5,38 +5,8 @@
         "sport": "nhl"
     },
     {
-        "key": "new-jersey-devils",
-        "short_name": "nj",
-        "sport": "nhl"
-    },
-    {
-        "key": "new-jersey-devils",
-        "short_name": "nj",
-        "sport": "nhl"
-    },
-    {
         "key": "calgary-flames",
         "short_name": "cgy",
-        "sport": "nhl"
-    },
-    {
-        "key": "calgary-flames",
-        "short_name": "cgy",
-        "sport": "nhl"
-    },
-    {
-        "key": "calgary-flames",
-        "short_name": "cgy",
-        "sport": "nhl"
-    },
-    {
-        "key": "utah-hockey-club",
-        "short_name": "utah",
-        "sport": "nhl"
-    },
-    {
-        "key": "utah-hockey-club",
-        "short_name": "utah",
         "sport": "nhl"
     },
     {
@@ -50,38 +20,8 @@
         "sport": "nhl"
     },
     {
-        "key": "toronto-maple-leafs",
-        "short_name": "tor",
-        "sport": "nhl"
-    },
-    {
-        "key": "toronto-maple-leafs",
-        "short_name": "tor",
-        "sport": "nhl"
-    },
-    {
         "key": "montreal-canadiens",
         "short_name": "mtl",
-        "sport": "nhl"
-    },
-    {
-        "key": "montreal-canadiens",
-        "short_name": "mtl",
-        "sport": "nhl"
-    },
-    {
-        "key": "montreal-canadiens",
-        "short_name": "mtl",
-        "sport": "nhl"
-    },
-    {
-        "key": "vegas-golden-knights",
-        "short_name": "vgk",
-        "sport": "nhl"
-    },
-    {
-        "key": "vegas-golden-knights",
-        "short_name": "vgk",
         "sport": "nhl"
     },
     {
@@ -95,38 +35,8 @@
         "sport": "nhl"
     },
     {
-        "key": "florida-panthers",
-        "short_name": "fla",
-        "sport": "nhl"
-    },
-    {
-        "key": "florida-panthers",
-        "short_name": "fla",
-        "sport": "nhl"
-    },
-    {
         "key": "seattle-kraken",
         "short_name": "sea",
-        "sport": "nhl"
-    },
-    {
-        "key": "seattle-kraken",
-        "short_name": "sea",
-        "sport": "nhl"
-    },
-    {
-        "key": "seattle-kraken",
-        "short_name": "sea",
-        "sport": "nhl"
-    },
-    {
-        "key": "vancouver-canucks",
-        "short_name": "van",
-        "sport": "nhl"
-    },
-    {
-        "key": "vancouver-canucks",
-        "short_name": "van",
         "sport": "nhl"
     },
     {
@@ -140,38 +50,8 @@
         "sport": "nhl"
     },
     {
-        "key": "tampa-bay-lightning",
-        "short_name": "tb",
-        "sport": "nhl"
-    },
-    {
-        "key": "tampa-bay-lightning",
-        "short_name": "tb",
-        "sport": "nhl"
-    },
-    {
         "key": "anaheim-ducks",
         "short_name": "ana",
-        "sport": "nhl"
-    },
-    {
-        "key": "anaheim-ducks",
-        "short_name": "ana",
-        "sport": "nhl"
-    },
-    {
-        "key": "anaheim-ducks",
-        "short_name": "ana",
-        "sport": "nhl"
-    },
-    {
-        "key": "boston-bruins",
-        "short_name": "bos",
-        "sport": "nhl"
-    },
-    {
-        "key": "boston-bruins",
-        "short_name": "bos",
         "sport": "nhl"
     },
     {
@@ -185,38 +65,8 @@
         "sport": "nhl"
     },
     {
-        "key": "edmonton-oilers",
-        "short_name": "edm",
-        "sport": "nhl"
-    },
-    {
-        "key": "edmonton-oilers",
-        "short_name": "edm",
-        "sport": "nhl"
-    },
-    {
         "key": "detroit-red-wings",
         "short_name": "det",
-        "sport": "nhl"
-    },
-    {
-        "key": "detroit-red-wings",
-        "short_name": "det",
-        "sport": "nhl"
-    },
-    {
-        "key": "detroit-red-wings",
-        "short_name": "det",
-        "sport": "nhl"
-    },
-    {
-        "key": "los-angeles-kings",
-        "short_name": "la",
-        "sport": "nhl"
-    },
-    {
-        "key": "los-angeles-kings",
-        "short_name": "la",
         "sport": "nhl"
     },
     {
@@ -230,38 +80,8 @@
         "sport": "nhl"
     },
     {
-        "key": "ottawa-senators",
-        "short_name": "ott",
-        "sport": "nhl"
-    },
-    {
-        "key": "ottawa-senators",
-        "short_name": "ott",
-        "sport": "nhl"
-    },
-    {
         "key": "colorado-avalanche",
         "short_name": "col",
-        "sport": "nhl"
-    },
-    {
-        "key": "colorado-avalanche",
-        "short_name": "col",
-        "sport": "nhl"
-    },
-    {
-        "key": "colorado-avalanche",
-        "short_name": "col",
-        "sport": "nhl"
-    },
-    {
-        "key": "washington-capitals",
-        "short_name": "wsh",
-        "sport": "nhl"
-    },
-    {
-        "key": "washington-capitals",
-        "short_name": "wsh",
         "sport": "nhl"
     },
     {
@@ -275,38 +95,8 @@
         "sport": "nhl"
     },
     {
-        "key": "new-york-islanders",
-        "short_name": "nyi",
-        "sport": "nhl"
-    },
-    {
-        "key": "new-york-islanders",
-        "short_name": "nyi",
-        "sport": "nhl"
-    },
-    {
         "key": "winnipeg-jets",
         "short_name": "wpg",
-        "sport": "nhl"
-    },
-    {
-        "key": "winnipeg-jets",
-        "short_name": "wpg",
-        "sport": "nhl"
-    },
-    {
-        "key": "winnipeg-jets",
-        "short_name": "wpg",
-        "sport": "nhl"
-    },
-    {
-        "key": "st-louis-blues",
-        "short_name": "stl",
-        "sport": "nhl"
-    },
-    {
-        "key": "st-louis-blues",
-        "short_name": "stl",
         "sport": "nhl"
     },
     {
@@ -320,38 +110,8 @@
         "sport": "nhl"
     },
     {
-        "key": "pittsburgh-penguins",
-        "short_name": "pit",
-        "sport": "nhl"
-    },
-    {
-        "key": "pittsburgh-penguins",
-        "short_name": "pit",
-        "sport": "nhl"
-    },
-    {
         "key": "dallas-stars",
         "short_name": "dal",
-        "sport": "nhl"
-    },
-    {
-        "key": "dallas-stars",
-        "short_name": "dal",
-        "sport": "nhl"
-    },
-    {
-        "key": "dallas-stars",
-        "short_name": "dal",
-        "sport": "nhl"
-    },
-    {
-        "key": "carolina-hurricanes",
-        "short_name": "car",
-        "sport": "nhl"
-    },
-    {
-        "key": "carolina-hurricanes",
-        "short_name": "car",
         "sport": "nhl"
     },
     {
@@ -365,38 +125,8 @@
         "sport": "nhl"
     },
     {
-        "key": "nashville-predators",
-        "short_name": "nsh",
-        "sport": "nhl"
-    },
-    {
-        "key": "nashville-predators",
-        "short_name": "nsh",
-        "sport": "nhl"
-    },
-    {
         "key": "columbus-blue-jackets",
         "short_name": "cbj",
-        "sport": "nhl"
-    },
-    {
-        "key": "columbus-blue-jackets",
-        "short_name": "cbj",
-        "sport": "nhl"
-    },
-    {
-        "key": "columbus-blue-jackets",
-        "short_name": "cbj",
-        "sport": "nhl"
-    },
-    {
-        "key": "philadelphia-flyers",
-        "short_name": "phi",
-        "sport": "nhl"
-    },
-    {
-        "key": "philadelphia-flyers",
-        "short_name": "phi",
         "sport": "nhl"
     },
     {
@@ -410,26 +140,6 @@
         "sport": "nhl"
     },
     {
-        "key": "chicago-blackhawks",
-        "short_name": "chi",
-        "sport": "nhl"
-    },
-    {
-        "key": "chicago-blackhawks",
-        "short_name": "chi",
-        "sport": "nhl"
-    },
-    {
-        "key": "new-york-rangers",
-        "short_name": "nyr",
-        "sport": "nhl"
-    },
-    {
-        "key": "new-york-rangers",
-        "short_name": "nyr",
-        "sport": "nhl"
-    },
-    {
         "key": "new-york-rangers",
         "short_name": "nyr",
         "sport": "nhl"
@@ -440,38 +150,8 @@
         "sport": "nhl"
     },
     {
-        "key": "minnesota-wild",
-        "short_name": "min",
-        "sport": "nhl"
-    },
-    {
-        "key": "minnesota-wild",
-        "short_name": "min",
-        "sport": "nhl"
-    },
-    {
         "key": "san-jose-sharks",
         "short_name": "sj",
-        "sport": "nhl"
-    },
-    {
-        "key": "san-jose-sharks",
-        "short_name": "sj",
-        "sport": "nhl"
-    },
-    {
-        "key": "san-jose-sharks",
-        "short_name": "sj",
-        "sport": "nhl"
-    },
-    {
-        "key": "buffalo-sabres",
-        "short_name": "buf",
-        "sport": "nhl"
-    },
-    {
-        "key": "buffalo-sabres",
-        "short_name": "buf",
         "sport": "nhl"
     },
     {

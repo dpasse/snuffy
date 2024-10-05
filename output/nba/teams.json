@@ -5,38 +5,8 @@
         "sport": "nba"
     },
     {
-        "key": "boston-celtics",
-        "short_name": "bos",
-        "sport": "nba"
-    },
-    {
-        "key": "boston-celtics",
-        "short_name": "bos",
-        "sport": "nba"
-    },
-    {
         "key": "utah-jazz",
         "short_name": "utah",
-        "sport": "nba"
-    },
-    {
-        "key": "utah-jazz",
-        "short_name": "utah",
-        "sport": "nba"
-    },
-    {
-        "key": "utah-jazz",
-        "short_name": "utah",
-        "sport": "nba"
-    },
-    {
-        "key": "minnesota-timberwolves",
-        "short_name": "min",
-        "sport": "nba"
-    },
-    {
-        "key": "minnesota-timberwolves",
-        "short_name": "min",
         "sport": "nba"
     },
     {
@@ -50,38 +20,8 @@
         "sport": "nba"
     },
     {
-        "key": "atlanta-hawks",
-        "short_name": "atl",
-        "sport": "nba"
-    },
-    {
-        "key": "atlanta-hawks",
-        "short_name": "atl",
-        "sport": "nba"
-    },
-    {
         "key": "chicago-bulls",
         "short_name": "chi",
-        "sport": "nba"
-    },
-    {
-        "key": "chicago-bulls",
-        "short_name": "chi",
-        "sport": "nba"
-    },
-    {
-        "key": "chicago-bulls",
-        "short_name": "chi",
-        "sport": "nba"
-    },
-    {
-        "key": "cleveland-cavaliers",
-        "short_name": "cle",
-        "sport": "nba"
-    },
-    {
-        "key": "cleveland-cavaliers",
-        "short_name": "cle",
         "sport": "nba"
     },
     {
@@ -95,38 +35,8 @@
         "sport": "nba"
     },
     {
-        "key": "detroit-pistons",
-        "short_name": "det",
-        "sport": "nba"
-    },
-    {
-        "key": "detroit-pistons",
-        "short_name": "det",
-        "sport": "nba"
-    },
-    {
         "key": "indiana-pacers",
         "short_name": "ind",
-        "sport": "nba"
-    },
-    {
-        "key": "indiana-pacers",
-        "short_name": "ind",
-        "sport": "nba"
-    },
-    {
-        "key": "indiana-pacers",
-        "short_name": "ind",
-        "sport": "nba"
-    },
-    {
-        "key": "miami-heat",
-        "short_name": "mia",
-        "sport": "nba"
-    },
-    {
-        "key": "miami-heat",
-        "short_name": "mia",
         "sport": "nba"
     },
     {
@@ -140,38 +50,8 @@
         "sport": "nba"
     },
     {
-        "key": "milwaukee-bucks",
-        "short_name": "mil",
-        "sport": "nba"
-    },
-    {
-        "key": "milwaukee-bucks",
-        "short_name": "mil",
-        "sport": "nba"
-    },
-    {
         "key": "brooklyn-nets",
         "short_name": "bkn",
-        "sport": "nba"
-    },
-    {
-        "key": "brooklyn-nets",
-        "short_name": "bkn",
-        "sport": "nba"
-    },
-    {
-        "key": "brooklyn-nets",
-        "short_name": "bkn",
-        "sport": "nba"
-    },
-    {
-        "key": "new-york-knicks",
-        "short_name": "ny",
-        "sport": "nba"
-    },
-    {
-        "key": "new-york-knicks",
-        "short_name": "ny",
         "sport": "nba"
     },
     {
@@ -185,38 +65,8 @@
         "sport": "nba"
     },
     {
-        "key": "orlando-magic",
-        "short_name": "orl",
-        "sport": "nba"
-    },
-    {
-        "key": "orlando-magic",
-        "short_name": "orl",
-        "sport": "nba"
-    },
-    {
         "key": "philadelphia-76ers",
         "short_name": "phi",
-        "sport": "nba"
-    },
-    {
-        "key": "philadelphia-76ers",
-        "short_name": "phi",
-        "sport": "nba"
-    },
-    {
-        "key": "philadelphia-76ers",
-        "short_name": "phi",
-        "sport": "nba"
-    },
-    {
-        "key": "washington-wizards",
-        "short_name": "wsh",
-        "sport": "nba"
-    },
-    {
-        "key": "washington-wizards",
-        "short_name": "wsh",
         "sport": "nba"
     },
     {
@@ -230,38 +80,8 @@
         "sport": "nba"
     },
     {
-        "key": "toronto-raptors",
-        "short_name": "tor",
-        "sport": "nba"
-    },
-    {
-        "key": "toronto-raptors",
-        "short_name": "tor",
-        "sport": "nba"
-    },
-    {
         "key": "charlotte-hornets",
         "short_name": "cha",
-        "sport": "nba"
-    },
-    {
-        "key": "charlotte-hornets",
-        "short_name": "cha",
-        "sport": "nba"
-    },
-    {
-        "key": "charlotte-hornets",
-        "short_name": "cha",
-        "sport": "nba"
-    },
-    {
-        "key": "new-orleans-pelicans",
-        "short_name": "no",
-        "sport": "nba"
-    },
-    {
-        "key": "new-orleans-pelicans",
-        "short_name": "no",
         "sport": "nba"
     },
     {
@@ -275,38 +95,8 @@
         "sport": "nba"
     },
     {
-        "key": "dallas-mavericks",
-        "short_name": "dal",
-        "sport": "nba"
-    },
-    {
-        "key": "dallas-mavericks",
-        "short_name": "dal",
-        "sport": "nba"
-    },
-    {
         "key": "golden-state-warriors",
         "short_name": "gs",
-        "sport": "nba"
-    },
-    {
-        "key": "golden-state-warriors",
-        "short_name": "gs",
-        "sport": "nba"
-    },
-    {
-        "key": "golden-state-warriors",
-        "short_name": "gs",
-        "sport": "nba"
-    },
-    {
-        "key": "houston-rockets",
-        "short_name": "hou",
-        "sport": "nba"
-    },
-    {
-        "key": "houston-rockets",
-        "short_name": "hou",
         "sport": "nba"
     },
     {
@@ -320,38 +110,8 @@
         "sport": "nba"
     },
     {
-        "key": "la-clippers",
-        "short_name": "lac",
-        "sport": "nba"
-    },
-    {
-        "key": "la-clippers",
-        "short_name": "lac",
-        "sport": "nba"
-    },
-    {
         "key": "phoenix-suns",
         "short_name": "phx",
-        "sport": "nba"
-    },
-    {
-        "key": "phoenix-suns",
-        "short_name": "phx",
-        "sport": "nba"
-    },
-    {
-        "key": "phoenix-suns",
-        "short_name": "phx",
-        "sport": "nba"
-    },
-    {
-        "key": "portland-trail-blazers",
-        "short_name": "por",
-        "sport": "nba"
-    },
-    {
-        "key": "portland-trail-blazers",
-        "short_name": "por",
         "sport": "nba"
     },
     {
@@ -365,38 +125,8 @@
         "sport": "nba"
     },
     {
-        "key": "sacramento-kings",
-        "short_name": "sac",
-        "sport": "nba"
-    },
-    {
-        "key": "sacramento-kings",
-        "short_name": "sac",
-        "sport": "nba"
-    },
-    {
         "key": "san-antonio-spurs",
         "short_name": "sa",
-        "sport": "nba"
-    },
-    {
-        "key": "san-antonio-spurs",
-        "short_name": "sa",
-        "sport": "nba"
-    },
-    {
-        "key": "san-antonio-spurs",
-        "short_name": "sa",
-        "sport": "nba"
-    },
-    {
-        "key": "oklahoma-city-thunder",
-        "short_name": "okc",
-        "sport": "nba"
-    },
-    {
-        "key": "oklahoma-city-thunder",
-        "short_name": "okc",
         "sport": "nba"
     },
     {
@@ -410,38 +140,8 @@
         "sport": "nba"
     },
     {
-        "key": "memphis-grizzlies",
-        "short_name": "mem",
-        "sport": "nba"
-    },
-    {
-        "key": "memphis-grizzlies",
-        "short_name": "mem",
-        "sport": "nba"
-    },
-    {
         "key": "denver-nuggets",
         "short_name": "den",
-        "sport": "nba"
-    },
-    {
-        "key": "denver-nuggets",
-        "short_name": "den",
-        "sport": "nba"
-    },
-    {
-        "key": "denver-nuggets",
-        "short_name": "den",
-        "sport": "nba"
-    },
-    {
-        "key": "los-angeles-lakers",
-        "short_name": "lal",
-        "sport": "nba"
-    },
-    {
-        "key": "los-angeles-lakers",
-        "short_name": "lal",
         "sport": "nba"
     },
     {
