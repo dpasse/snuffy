@@ -1,0 +1,452 @@
+[
+    {
+        "key": "new-york-yankees",
+        "short_name": "nyy",
+        "sport": "mlb"
+    },
+    {
+        "key": "new-york-yankees",
+        "short_name": "nyy",
+        "sport": "mlb"
+    },
+    {
+        "key": "new-york-yankees",
+        "short_name": "nyy",
+        "sport": "mlb"
+    },
+    {
+        "key": "cleveland-guardians",
+        "short_name": "cle",
+        "sport": "mlb"
+    },
+    {
+        "key": "cleveland-guardians",
+        "short_name": "cle",
+        "sport": "mlb"
+    },
+    {
+        "key": "cleveland-guardians",
+        "short_name": "cle",
+        "sport": "mlb"
+    },
+    {
+        "key": "baltimore-orioles",
+        "short_name": "bal",
+        "sport": "mlb"
+    },
+    {
+        "key": "baltimore-orioles",
+        "short_name": "bal",
+        "sport": "mlb"
+    },
+    {
+        "key": "baltimore-orioles",
+        "short_name": "bal",
+        "sport": "mlb"
+    },
+    {
+        "key": "houston-astros",
+        "short_name": "hou",
+        "sport": "mlb"
+    },
+    {
+        "key": "houston-astros",
+        "short_name": "hou",
+        "sport": "mlb"
+    },
+    {
+        "key": "houston-astros",
+        "short_name": "hou",
+        "sport": "mlb"
+    },
+    {
+        "key": "kansas-city-royals",
+        "short_name": "kc",
+        "sport": "mlb"
+    },
+    {
+        "key": "kansas-city-royals",
+        "short_name": "kc",
+        "sport": "mlb"
+    },
+    {
+        "key": "kansas-city-royals",
+        "short_name": "kc",
+        "sport": "mlb"
+    },
+    {
+        "key": "detroit-tigers",
+        "short_name": "det",
+        "sport": "mlb"
+    },
+    {
+        "key": "detroit-tigers",
+        "short_name": "det",
+        "sport": "mlb"
+    },
+    {
+        "key": "detroit-tigers",
+        "short_name": "det",
+        "sport": "mlb"
+    },
+    {
+        "key": "seattle-mariners",
+        "short_name": "sea",
+        "sport": "mlb"
+    },
+    {
+        "key": "seattle-mariners",
+        "short_name": "sea",
+        "sport": "mlb"
+    },
+    {
+        "key": "seattle-mariners",
+        "short_name": "sea",
+        "sport": "mlb"
+    },
+    {
+        "key": "minnesota-twins",
+        "short_name": "min",
+        "sport": "mlb"
+    },
+    {
+        "key": "minnesota-twins",
+        "short_name": "min",
+        "sport": "mlb"
+    },
+    {
+        "key": "minnesota-twins",
+        "short_name": "min",
+        "sport": "mlb"
+    },
+    {
+        "key": "boston-red-sox",
+        "short_name": "bos",
+        "sport": "mlb"
+    },
+    {
+        "key": "boston-red-sox",
+        "short_name": "bos",
+        "sport": "mlb"
+    },
+    {
+        "key": "boston-red-sox",
+        "short_name": "bos",
+        "sport": "mlb"
+    },
+    {
+        "key": "tampa-bay-rays",
+        "short_name": "tb",
+        "sport": "mlb"
+    },
+    {
+        "key": "tampa-bay-rays",
+        "short_name": "tb",
+        "sport": "mlb"
+    },
+    {
+        "key": "tampa-bay-rays",
+        "short_name": "tb",
+        "sport": "mlb"
+    },
+    {
+        "key": "texas-rangers",
+        "short_name": "tex",
+        "sport": "mlb"
+    },
+    {
+        "key": "texas-rangers",
+        "short_name": "tex",
+        "sport": "mlb"
+    },
+    {
+        "key": "texas-rangers",
+        "short_name": "tex",
+        "sport": "mlb"
+    },
+    {
+        "key": "toronto-blue-jays",
+        "short_name": "tor",
+        "sport": "mlb"
+    },
+    {
+        "key": "toronto-blue-jays",
+        "short_name": "tor",
+        "sport": "mlb"
+    },
+    {
+        "key": "toronto-blue-jays",
+        "short_name": "tor",
+        "sport": "mlb"
+    },
+    {
+        "key": "oakland-athletics",
+        "short_name": "oak",
+        "sport": "mlb"
+    },
+    {
+        "key": "oakland-athletics",
+        "short_name": "oak",
+        "sport": "mlb"
+    },
+    {
+        "key": "oakland-athletics",
+        "short_name": "oak",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-angels",
+        "short_name": "laa",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-angels",
+        "short_name": "laa",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-angels",
+        "short_name": "laa",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-white-sox",
+        "short_name": "chw",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-white-sox",
+        "short_name": "chw",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-white-sox",
+        "short_name": "chw",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-dodgers",
+        "short_name": "lad",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-dodgers",
+        "short_name": "lad",
+        "sport": "mlb"
+    },
+    {
+        "key": "los-angeles-dodgers",
+        "short_name": "lad",
+        "sport": "mlb"
+    },
+    {
+        "key": "philadelphia-phillies",
+        "short_name": "phi",
+        "sport": "mlb"
+    },
+    {
+        "key": "philadelphia-phillies",
+        "short_name": "phi",
+        "sport": "mlb"
+    },
+    {
+        "key": "philadelphia-phillies",
+        "short_name": "phi",
+        "sport": "mlb"
+    },
+    {
+        "key": "milwaukee-brewers",
+        "short_name": "mil",
+        "sport": "mlb"
+    },
+    {
+        "key": "milwaukee-brewers",
+        "short_name": "mil",
+        "sport": "mlb"
+    },
+    {
+        "key": "milwaukee-brewers",
+        "short_name": "mil",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-diego-padres",
+        "short_name": "sd",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-diego-padres",
+        "short_name": "sd",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-diego-padres",
+        "short_name": "sd",
+        "sport": "mlb"
+    },
+    {
+        "key": "atlanta-braves",
+        "short_name": "atl",
+        "sport": "mlb"
+    },
+    {
+        "key": "atlanta-braves",
+        "short_name": "atl",
+        "sport": "mlb"
+    },
+    {
+        "key": "atlanta-braves",
+        "short_name": "atl",
+        "sport": "mlb"
+    },
+    {
+        "key": "new-york-mets",
+        "short_name": "nym",
+        "sport": "mlb"
+    },
+    {
+        "key": "new-york-mets",
+        "short_name": "nym",
+        "sport": "mlb"
+    },
+    {
+        "key": "new-york-mets",
+        "short_name": "nym",
+        "sport": "mlb"
+    },
+    {
+        "key": "arizona-diamondbacks",
+        "short_name": "ari",
+        "sport": "mlb"
+    },
+    {
+        "key": "arizona-diamondbacks",
+        "short_name": "ari",
+        "sport": "mlb"
+    },
+    {
+        "key": "arizona-diamondbacks",
+        "short_name": "ari",
+        "sport": "mlb"
+    },
+    {
+        "key": "st-louis-cardinals",
+        "short_name": "stl",
+        "sport": "mlb"
+    },
+    {
+        "key": "st-louis-cardinals",
+        "short_name": "stl",
+        "sport": "mlb"
+    },
+    {
+        "key": "st-louis-cardinals",
+        "short_name": "stl",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-cubs",
+        "short_name": "chc",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-cubs",
+        "short_name": "chc",
+        "sport": "mlb"
+    },
+    {
+        "key": "chicago-cubs",
+        "short_name": "chc",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-francisco-giants",
+        "short_name": "sf",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-francisco-giants",
+        "short_name": "sf",
+        "sport": "mlb"
+    },
+    {
+        "key": "san-francisco-giants",
+        "short_name": "sf",
+        "sport": "mlb"
+    },
+    {
+        "key": "cincinnati-reds",
+        "short_name": "cin",
+        "sport": "mlb"
+    },
+    {
+        "key": "cincinnati-reds",
+        "short_name": "cin",
+        "sport": "mlb"
+    },
+    {
+        "key": "cincinnati-reds",
+        "short_name": "cin",
+        "sport": "mlb"
+    },
+    {
+        "key": "pittsburgh-pirates",
+        "short_name": "pit",
+        "sport": "mlb"
+    },
+    {
+        "key": "pittsburgh-pirates",
+        "short_name": "pit",
+        "sport": "mlb"
+    },
+    {
+        "key": "pittsburgh-pirates",
+        "short_name": "pit",
+        "sport": "mlb"
+    },
+    {
+        "key": "washington-nationals",
+        "short_name": "wsh",
+        "sport": "mlb"
+    },
+    {
+        "key": "washington-nationals",
+        "short_name": "wsh",
+        "sport": "mlb"
+    },
+    {
+        "key": "washington-nationals",
+        "short_name": "wsh",
+        "sport": "mlb"
+    },
+    {
+        "key": "miami-marlins",
+        "short_name": "mia",
+        "sport": "mlb"
+    },
+    {
+        "key": "miami-marlins",
+        "short_name": "mia",
+        "sport": "mlb"
+    },
+    {
+        "key": "miami-marlins",
+        "short_name": "mia",
+        "sport": "mlb"
+    },
+    {
+        "key": "colorado-rockies",
+        "short_name": "col",
+        "sport": "mlb"
+    },
+    {
+        "key": "colorado-rockies",
+        "short_name": "col",
+        "sport": "mlb"
+    },
+    {
+        "key": "colorado-rockies",
+        "short_name": "col",
+        "sport": "mlb"
+    }
+]
