@@ -1,0 +1,3057 @@
+[
+    {
+        "key": "3917376",
+        "short_name": "jaylen-brown",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4576085",
+        "short_name": "jd-davison",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4431734",
+        "short_name": "tristan-enaruna",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4397251",
+        "short_name": "ron-harper-jr",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4065804",
+        "short_name": "sam-hauser",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "3995",
+        "short_name": "jrue-holiday",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "3213",
+        "short_name": "al-horford",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "3064560",
+        "short_name": "luke-kornet",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4397689",
+        "short_name": "drew-peterson",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "3102531",
+        "short_name": "kristaps-porzingis",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4066354",
+        "short_name": "payton-pritchard",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4397424",
+        "short_name": "neemias-queta",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4593841",
+        "short_name": "baylor-scheierman",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4598307",
+        "short_name": "dmytro-skapintsev",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4432164",
+        "short_name": "jaden-springer",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4065648",
+        "short_name": "jayson-tatum",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4277964",
+        "short_name": "xavier-tillman",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4277890",
+        "short_name": "lonnie-walker-iv",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4683689",
+        "short_name": "jordan-walsh",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4431705",
+        "short_name": "anton-watson",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "3078576",
+        "short_name": "derrick-white",
+        "team": "boston-celtics"
+    },
+    {
+        "key": "4432932",
+        "short_name": "max-abmas",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "2528426",
+        "short_name": "jordan-clarkson",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4683766",
+        "short_name": "isaiah-collier",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "3908845",
+        "short_name": "john-collins",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "3914285",
+        "short_name": "drew-eubanks",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4684793",
+        "short_name": "kyle-filipowski",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4433627",
+        "short_name": "keyonte-george",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4684806",
+        "short_name": "taylor-hendricks",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4432817",
+        "short_name": "johnny-juzang",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4433136",
+        "short_name": "walker-kessler",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4397537",
+        "short_name": "taevion-kinsey",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4066336",
+        "short_name": "lauri-markkanen",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4004",
+        "short_name": "patty-mills",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "3133602",
+        "short_name": "svi-mykhailiuk",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4066399",
+        "short_name": "micah-potter",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4397916",
+        "short_name": "jason-preston",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "5105839",
+        "short_name": "brice-sensabaugh",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4277811",
+        "short_name": "collin-sexton",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4432827",
+        "short_name": "oscar-tshiebwe",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4895758",
+        "short_name": "cody-williams",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4431727",
+        "short_name": "isaiah-wong",
+        "team": "utah-jazz"
+    },
+    {
+        "key": "4278039",
+        "short_name": "nickeil-alexander-walker",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3136779",
+        "short_name": "keita-bates-diop",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4432247",
+        "short_name": "jaylen-clark",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3195",
+        "short_name": "mike-conley",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3934673",
+        "short_name": "donte-divincenzo",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4684275",
+        "short_name": "rob-dillingham",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3923250",
+        "short_name": "pj-dozier",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4594268",
+        "short_name": "anthony-edwards",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4431816",
+        "short_name": "jesse-edwards",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4277951",
+        "short_name": "luka-garza",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3032976",
+        "short_name": "rudy-gobert",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "2968436",
+        "short_name": "joe-ingles",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4066269",
+        "short_name": "skylar-mays",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4431671",
+        "short_name": "jaden-mcdaniels",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "5044385",
+        "short_name": "leonard-miller",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4687718",
+        "short_name": "josh-minott",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4432176",
+        "short_name": "daishen-nix",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4066410",
+        "short_name": "eugene-omoruyi",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "3064514",
+        "short_name": "julius-randle",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4396971",
+        "short_name": "naz-reid",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4432847",
+        "short_name": "terrence-shannon-jr",
+        "team": "minnesota-timberwolves"
+    },
+    {
+        "key": "4870562",
+        "short_name": "dominick-barlow",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "3037789",
+        "short_name": "bogdan-bogdanovic",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4683736",
+        "short_name": "kobe-bufkin",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "3102529",
+        "short_name": "clint-capela",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4869342",
+        "short_name": "dyson-daniels",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4712863",
+        "short_name": "mouhamed-gueye",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4067858",
+        "short_name": "kevon-harris",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4065732",
+        "short_name": "deandre-hunter",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4701230",
+        "short_name": "jalen-johnson",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4578893",
+        "short_name": "vit-krejci",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4431775",
+        "short_name": "seth-lundy",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "3913180",
+        "short_name": "garrison-mathews",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "2580365",
+        "short_name": "larry-nance-jr",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4431680",
+        "short_name": "onyeka-okongwu",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4279318",
+        "short_name": "daeqwon-plowden",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "5211175",
+        "short_name": "zaccharie-risacher",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4593041",
+        "short_name": "david-roddy",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4279118",
+        "short_name": "keaton-wallace",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4277905",
+        "short_name": "trae-young",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "2579258",
+        "short_name": "cody-zeller",
+        "team": "atlanta-hawks"
+    },
+    {
+        "key": "4066421",
+        "short_name": "lonzo-ball",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4438552",
+        "short_name": "onuralp-bitim",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4711294",
+        "short_name": "matas-buzelis",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "3133635",
+        "short_name": "jevon-carter",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "2528693",
+        "short_name": "torrey-craig",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4397002",
+        "short_name": "ayo-dosunmu",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4592402",
+        "short_name": "chris-duarte",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4871145",
+        "short_name": "josh-giddey",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4396991",
+        "short_name": "talen-horton-tucker",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "3064440",
+        "short_name": "zach-lavine",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4432821",
+        "short_name": "ej-liddell",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4585610",
+        "short_name": "kenneth-lofton-jr",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "5105553",
+        "short_name": "julian-phillips",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4702023",
+        "short_name": "adama-sanogo",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4397189",
+        "short_name": "jalen-smith",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4701231",
+        "short_name": "dj-steward",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4433159",
+        "short_name": "dalen-terry",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "6478",
+        "short_name": "nikola-vucevic",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4395651",
+        "short_name": "coby-white",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4431687",
+        "short_name": "patrick-williams",
+        "team": "chicago-bulls"
+    },
+    {
+        "key": "4066328",
+        "short_name": "jarrett-allen",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4433620",
+        "short_name": "emoni-bates",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4397127",
+        "short_name": "jules-bernard",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "989",
+        "short_name": "omar-cook",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4396907",
+        "short_name": "darius-garland",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4278378",
+        "short_name": "jacob-gilyard",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4065733",
+        "short_name": "ty-jerome",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "2991043",
+        "short_name": "caris-levert",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4066757",
+        "short_name": "sam-merrill",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "3908809",
+        "short_name": "donovan-mitchell",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4432158",
+        "short_name": "evan-mobley",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4397233",
+        "short_name": "pete-nance",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "2990969",
+        "short_name": "georges-niang",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4432822",
+        "short_name": "isaac-okoro",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4701233",
+        "short_name": "craig-porter-jr",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4277923",
+        "short_name": "zhaire-smith",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4065778",
+        "short_name": "max-strus",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "6474",
+        "short_name": "tristan-thompson",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4702233",
+        "short_name": "jt-thor",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4997539",
+        "short_name": "luke-travers",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "4683747",
+        "short_name": "jaylon-tyson",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "3912848",
+        "short_name": "dean-wade",
+        "team": "cleveland-cavaliers"
+    },
+    {
+        "key": "3907822",
+        "short_name": "malik-beasley",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4432166",
+        "short_name": "cade-cunningham",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4433621",
+        "short_name": "jalen-duren",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4597865",
+        "short_name": "tosan-evbuomwan",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "3899664",
+        "short_name": "simone-fontecchio",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "2528210",
+        "short_name": "tim-hardaway-jr",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "6440",
+        "short_name": "tobias-harris",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4683771",
+        "short_name": "ron-holland-ii",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4433218",
+        "short_name": "jaden-ivey",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "5107199",
+        "short_name": "daniss-jenkins",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "5105340",
+        "short_name": "bobi-klintman",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4280041",
+        "short_name": "javante-mccoy",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4592187",
+        "short_name": "wendell-moore-jr",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4278562",
+        "short_name": "paul-reed",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4432107",
+        "short_name": "marcus-sasser",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4431811",
+        "short_name": "dereon-seabron",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4397882",
+        "short_name": "tolu-smith",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4066405",
+        "short_name": "lamar-stevens",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4432810",
+        "short_name": "isaiah-stewart",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4684742",
+        "short_name": "ausar-thompson",
+        "team": "detroit-pistons"
+    },
+    {
+        "key": "4433254",
+        "short_name": "kendall-brown",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4592699",
+        "short_name": "enrique-freeman",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "5157066",
+        "short_name": "johnny-furphy",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4396993",
+        "short_name": "tyrese-haliburton",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4432170",
+        "short_name": "isaiah-jackson",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4592829",
+        "short_name": "quenton-jackson",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "3999",
+        "short_name": "james-johnson",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4683634",
+        "short_name": "bennedict-mathurin",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "2530530",
+        "short_name": "tj-mcconnell",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4395712",
+        "short_name": "andrew-nembhard",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4396909",
+        "short_name": "aaron-nesmith",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4592965",
+        "short_name": "tristen-newton",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4433076",
+        "short_name": "ben-sheppard",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "3149673",
+        "short_name": "pascal-siakam",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4397134",
+        "short_name": "cole-swider",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4278355",
+        "short_name": "obi-toppin",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "3133628",
+        "short_name": "myles-turner",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "5106060",
+        "short_name": "jarace-walker",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4432808",
+        "short_name": "james-wiseman",
+        "team": "indiana-pacers"
+    },
+    {
+        "key": "4066261",
+        "short_name": "bam-adebayo",
+        "team": "miami-heat"
+    },
+    {
+        "key": "3934723",
+        "short_name": "thomas-bryant",
+        "team": "miami-heat"
+    },
+    {
+        "key": "6429",
+        "short_name": "alec-burks",
+        "team": "miami-heat"
+    },
+    {
+        "key": "6430",
+        "short_name": "jimmy-butler",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4432168",
+        "short_name": "josh-christopher",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4278373",
+        "short_name": "caleb-daniels",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4395725",
+        "short_name": "tyler-herro",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4291678",
+        "short_name": "haywood-highsmith",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4432848",
+        "short_name": "jaime-jaquez-jr",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4431786",
+        "short_name": "keshad-johnson",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4997528",
+        "short_name": "nikola-jovic",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4601025",
+        "short_name": "pelle-larsson",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4395652",
+        "short_name": "nassir-little",
+        "team": "miami-heat"
+    },
+    {
+        "key": "3449",
+        "short_name": "kevin-love",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4592979",
+        "short_name": "zyon-pullin",
+        "team": "miami-heat"
+    },
+    {
+        "key": "2581190",
+        "short_name": "josh-richardson",
+        "team": "miami-heat"
+    },
+    {
+        "key": "3157465",
+        "short_name": "duncan-robinson",
+        "team": "miami-heat"
+    },
+    {
+        "key": "3074752",
+        "short_name": "terry-rozier",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4066993",
+        "short_name": "dru-smith",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4432117",
+        "short_name": "isaiah-stevens",
+        "team": "miami-heat"
+    },
+    {
+        "key": "5105623",
+        "short_name": "kelel-ware",
+        "team": "miami-heat"
+    },
+    {
+        "key": "4397072",
+        "short_name": "james-akinjo",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "3032977",
+        "short_name": "giannis-antetokounmpo",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4432179",
+        "short_name": "marjon-beauchamp",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "2578239",
+        "short_name": "pat-connaughton",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4397475",
+        "short_name": "aj-green",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4432190",
+        "short_name": "andre-jackson-jr",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "5170947",
+        "short_name": "aj-johnson",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "6606",
+        "short_name": "damian-lillard",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4433622",
+        "short_name": "chris-livingston",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "3448",
+        "short_name": "brook-lopez",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "6609",
+        "short_name": "khris-middleton",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "3893059",
+        "short_name": "anzejs-pasecniks",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "3064482",
+        "short_name": "bobby-portis",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "2990962",
+        "short_name": "taurean-prince",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4397347",
+        "short_name": "liam-robbins",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4591725",
+        "short_name": "ryan-rollins",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "5167876",
+        "short_name": "tyler-smith",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4277843",
+        "short_name": "gary-trent-jr",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "4279532",
+        "short_name": "stanley-umude",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "3064447",
+        "short_name": "delon-wright",
+        "team": "milwaukee-bucks"
+    },
+    {
+        "key": "5105638",
+        "short_name": "amari-bailey",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "3593",
+        "short_name": "bojan-bogdanovic",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4278067",
+        "short_name": "nic-claxton",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4712896",
+        "short_name": "noah-clowney",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "5159486",
+        "short_name": "yongxi-cui",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "2578185",
+        "short_name": "dorian-finney-smith",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4683024",
+        "short_name": "killian-hayes",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "3138196",
+        "short_name": "cameron-johnson",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4432192",
+        "short_name": "keon-johnson",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "5149711",
+        "short_name": "jaylen-martin",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4397179",
+        "short_name": "tyrese-martin",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "3915195",
+        "short_name": "shake-milton",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "3032979",
+        "short_name": "dennis-schroder",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4432194",
+        "short_name": "dayron-sharpe",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "3907387",
+        "short_name": "ben-simmons",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4432174",
+        "short_name": "cam-thomas",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4431675",
+        "short_name": "trendon-watford",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4432735",
+        "short_name": "dariq-whitehead",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4433137",
+        "short_name": "ziaire-williams",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4431714",
+        "short_name": "jalen-wilson",
+        "team": "brooklyn-nets"
+    },
+    {
+        "key": "4431679",
+        "short_name": "precious-achiuwa",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3934719",
+        "short_name": "og-anunoby",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3147657",
+        "short_name": "mikal-bridges",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3934672",
+        "short_name": "jalen-brunson",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "5211983",
+        "short_name": "pacome-dadiet",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3062679",
+        "short_name": "josh-hart",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4871141",
+        "short_name": "ariel-hukporti",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4433225",
+        "short_name": "tyler-kolek",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4431823",
+        "short_name": "miles-mcbride",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4411057",
+        "short_name": "kevin-mccullar-jr",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3064230",
+        "short_name": "cameron-payne",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4351852",
+        "short_name": "mitchell-robinson",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3914044",
+        "short_name": "landry-shamet",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4277922",
+        "short_name": "jericho-sims",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4592461",
+        "short_name": "jacob-toppin",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "3136195",
+        "short_name": "karl-anthony-towns",
+        "team": "new-york-knicks"
+    },
+    {
+        "key": "4432809",
+        "short_name": "cole-anthony",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4432573",
+        "short_name": "paolo-banchero",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4348700",
+        "short_name": "goga-bitadze",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4712849",
+        "short_name": "anthony-black",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "2581018",
+        "short_name": "kentavious-caldwell-pope",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4277847",
+        "short_name": "wendell-carter-jr",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4277928",
+        "short_name": "jarrett-culver",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4702382",
+        "short_name": "tristan-da-silva",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "2999547",
+        "short_name": "gary-harris",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4433623",
+        "short_name": "caleb-houstan",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "5105806",
+        "short_name": "jett-howard",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4065654",
+        "short_name": "jonathan-isaac",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "6446",
+        "short_name": "cory-joseph",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4397071",
+        "short_name": "mac-mcclung",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4409222",
+        "short_name": "trevelin-queen",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4398207",
+        "short_name": "jalen-slawson",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4396972",
+        "short_name": "javonte-smart",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4432165",
+        "short_name": "jalen-suggs",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4278516",
+        "short_name": "ethan-thompson",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "4566434",
+        "short_name": "franz-wagner",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "3150844",
+        "short_name": "moritz-wagner",
+        "team": "orlando-magic"
+    },
+    {
+        "key": "5105637",
+        "short_name": "adem-bona",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4701234",
+        "short_name": "ricky-council-iv",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4066786",
+        "short_name": "jeff-dowtin-jr",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "6585",
+        "short_name": "andre-drummond",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "3059318",
+        "short_name": "joel-embiid",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4640265",
+        "short_name": "max-fielder",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4251",
+        "short_name": "paul-george",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "3431",
+        "short_name": "eric-gordon",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "6443",
+        "short_name": "reggie-jackson",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "3012",
+        "short_name": "kyle-lowry",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "3138160",
+        "short_name": "caleb-martin",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4431828",
+        "short_name": "kj-martin",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4431678",
+        "short_name": "tyrese-maxey",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4683778",
+        "short_name": "jared-mccain",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4684729",
+        "short_name": "judah-mintz",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4432815",
+        "short_name": "isaiah-mobley",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "3133603",
+        "short_name": "kelly-oubre-jr",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4431720",
+        "short_name": "lester-quinones",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4277844",
+        "short_name": "jordan-tucker",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4017844",
+        "short_name": "guerschon-yabusele",
+        "team": "philadelphia-76ers"
+    },
+    {
+        "key": "4277848",
+        "short_name": "marvin-bagley-iii",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4433246",
+        "short_name": "patrick-baldwin-jr",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4397136",
+        "short_name": "saddiq-bey",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4395650",
+        "short_name": "leaky-black",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "2566769",
+        "short_name": "malcolm-brogdon",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4395695",
+        "short_name": "jared-butler",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4845374",
+        "short_name": "bub-carrington",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4432907",
+        "short_name": "justin-champagnie",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "5104155",
+        "short_name": "bilal-coulibaly",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4432356",
+        "short_name": "johnny-davis",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "5174563",
+        "short_name": "kyshawn-george",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "2581184",
+        "short_name": "anthony-gill",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "2993370",
+        "short_name": "richaun-holmes",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4280151",
+        "short_name": "corey-kispert",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "3134907",
+        "short_name": "kyle-kuzma",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4395698",
+        "short_name": "kira-lewis-jr",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4278541",
+        "short_name": "jaylen-nowell",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4277956",
+        "short_name": "jordan-poole",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "5160992",
+        "short_name": "alex-sarr",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "6477",
+        "short_name": "jonas-valanciunas",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4997537",
+        "short_name": "tristan-vukcevic",
+        "team": "washington-wizards"
+    },
+    {
+        "key": "4397018",
+        "short_name": "ochai-agbaji",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4433134",
+        "short_name": "scottie-barnes",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4395625",
+        "short_name": "rj-barrett",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4431893",
+        "short_name": "jamison-battle",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "3948153",
+        "short_name": "chris-boucher",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4065670",
+        "short_name": "bruce-brown",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4592435",
+        "short_name": "branden-carlson",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4432820",
+        "short_name": "dj-carton",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "5211984",
+        "short_name": "ulrich-chomche",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "5106258",
+        "short_name": "gradey-dick",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4277952",
+        "short_name": "bruno-fernando",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4278053",
+        "short_name": "davion-mitchell",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "5107897",
+        "short_name": "jonathan-mogbo",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "2489663",
+        "short_name": "kelly-olynyk",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "3134908",
+        "short_name": "jakob-poeltl",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4395724",
+        "short_name": "immanuel-quickley",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4431688",
+        "short_name": "jahmius-ramsey",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4397119",
+        "short_name": "jared-rhoden",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4432241",
+        "short_name": "jamal-shead",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4023",
+        "short_name": "garrett-temple",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4684272",
+        "short_name": "jakobe-walter",
+        "team": "toronto-raptors"
+    },
+    {
+        "key": "4432816",
+        "short_name": "lamelo-ball",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4066383",
+        "short_name": "miles-bridges",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4066508",
+        "short_name": "charlie-brown-jr",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "2326307",
+        "short_name": "seth-curry",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4433249",
+        "short_name": "moussa-diabate",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "3986",
+        "short_name": "taj-gibson",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4065649",
+        "short_name": "harry-giles-iii",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4432811",
+        "short_name": "josh-green",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "3913220",
+        "short_name": "daquan-jeffries",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4395714",
+        "short_name": "keyontae-johnson",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4432819",
+        "short_name": "tre-mann",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "3138161",
+        "short_name": "cody-martin",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "3102532",
+        "short_name": "vasilije-micic",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4433287",
+        "short_name": "brandon-miller",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4278076",
+        "short_name": "nick-richards",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "5211176",
+        "short_name": "tidjane-salaun",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4683834",
+        "short_name": "kj-simpson",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4683686",
+        "short_name": "nick-smith-jr",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4397235",
+        "short_name": "duane-washington-jr",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4066218",
+        "short_name": "grant-williams",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4701232",
+        "short_name": "mark-williams",
+        "team": "charlotte-hornets"
+    },
+    {
+        "key": "4277869",
+        "short_name": "jose-alvarado",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4406489",
+        "short_name": "adonis-arms",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4431689",
+        "short_name": "keion-brooks-jr",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4278572",
+        "short_name": "jamal-cain",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4278352",
+        "short_name": "jalen-crutcher",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "2596112",
+        "short_name": "javonte-green",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4683750",
+        "short_name": "jordan-hawkins",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "3056245",
+        "short_name": "malcolm-hill",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "3913176",
+        "short_name": "brandon-ingram",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4395623",
+        "short_name": "trey-jemison",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4277813",
+        "short_name": "herbert-jones",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4997538",
+        "short_name": "karlo-matkovic",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "2490149",
+        "short_name": "cj-mccollum",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "5061589",
+        "short_name": "yves-missi",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4397688",
+        "short_name": "trey-murphy-iii",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "3907497",
+        "short_name": "dejounte-murray",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4592686",
+        "short_name": "antonio-reeves",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4432813",
+        "short_name": "jeremiah-robinson-earl",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "3908336",
+        "short_name": "matt-ryan",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "2451037",
+        "short_name": "daniel-theis",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "4395628",
+        "short_name": "zion-williamson",
+        "team": "new-orleans-pelicans"
+    },
+    {
+        "key": "2580782",
+        "short_name": "spencer-dinwiddie",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "3945274",
+        "short_name": "luka-doncic",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4397693",
+        "short_name": "kessler-edwards",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "3102528",
+        "short_name": "dante-exum",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4278049",
+        "short_name": "daniel-gafford",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4708972",
+        "short_name": "jazian-gortman",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4397014",
+        "short_name": "quentin-grimes",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4868423",
+        "short_name": "jaden-hardy",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "6442",
+        "short_name": "kyrie-irving",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "2960236",
+        "short_name": "maxi-kleber",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4067017",
+        "short_name": "aj-lawson",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4683688",
+        "short_name": "dereck-lively-ii",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4278594",
+        "short_name": "naji-marshall",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4432872",
+        "short_name": "emanuel-miller",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "6461",
+        "short_name": "markieff-morris",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "2531367",
+        "short_name": "dwight-powell",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4595400",
+        "short_name": "olivier-maxence-prosper",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4897696",
+        "short_name": "jamarion-sharp",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "6475",
+        "short_name": "klay-thompson",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4278078",
+        "short_name": "pj-washington",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "4397040",
+        "short_name": "brandon-williams",
+        "team": "dallas-mavericks"
+    },
+    {
+        "key": "2993874",
+        "short_name": "kyle-anderson",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4432187",
+        "short_name": "reece-beekman",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "3975",
+        "short_name": "stephen-curry",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "6589",
+        "short_name": "draymond-green",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "2990984",
+        "short_name": "buddy-hield",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4396963",
+        "short_name": "blake-hinson",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4431684",
+        "short_name": "trayce-jackson-davis",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4278075",
+        "short_name": "kevin-knox-ii",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4433247",
+        "short_name": "jonathan-kuminga",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "3155535",
+        "short_name": "kevon-looney",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4066436",
+        "short_name": "deanthony-melton",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4432171",
+        "short_name": "moses-moody",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "3134903",
+        "short_name": "gary-payton-ii",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4709138",
+        "short_name": "brandin-podziemski",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4593016",
+        "short_name": "quinten-post",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4066889",
+        "short_name": "jackson-rowe",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4997536",
+        "short_name": "gui-santos",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4592714",
+        "short_name": "pat-spencer",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "4066317",
+        "short_name": "lindy-waters-iii",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "3059319",
+        "short_name": "andrew-wiggins",
+        "team": "golden-state-warriors"
+    },
+    {
+        "key": "2991235",
+        "short_name": "steven-adams",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3155526",
+        "short_name": "dillon-brooks",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4592401",
+        "short_name": "nfaly-dante",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4433192",
+        "short_name": "tari-eason",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4437244",
+        "short_name": "jalen-green",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3209",
+        "short_name": "jeff-green",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4396629",
+        "short_name": "nate-hinton",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3922230",
+        "short_name": "aaron-holiday",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3146557",
+        "short_name": "jock-landale",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3911893",
+        "short_name": "jack-mcveigh",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4278588",
+        "short_name": "jermaine-samuels-jr",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4871144",
+        "short_name": "alperen-sengun",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4711272",
+        "short_name": "reed-sheppard",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4432639",
+        "short_name": "jabari-smith-jr",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "3136777",
+        "short_name": "jaesean-tate",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4684740",
+        "short_name": "amen-thompson",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "2991230",
+        "short_name": "fred-vanvleet",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "5105592",
+        "short_name": "cam-whitmore",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4397821",
+        "short_name": "nate-williams",
+        "team": "houston-rockets"
+    },
+    {
+        "key": "4277919",
+        "short_name": "mo-bamba",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3416",
+        "short_name": "nicolas-batum",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4431752",
+        "short_name": "kobe-brown",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4845363",
+        "short_name": "cam-christie",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4066387",
+        "short_name": "amir-coffey",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4067069",
+        "short_name": "nate-darling",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4431941",
+        "short_name": "rayj-dennis",
+        "team": "la-clippers"
+    },
+    {
+        "key": "2991139",
+        "short_name": "kris-dunn",
+        "team": "la-clippers"
+    },
+    {
+        "key": "5165257",
+        "short_name": "trentyn-flowers",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3992",
+        "short_name": "james-harden",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4397449",
+        "short_name": "ej-harkless",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4592492",
+        "short_name": "bones-hyland",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4431699",
+        "short_name": "kai-jones",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3936099",
+        "short_name": "derrick-jones-jr",
+        "team": "la-clippers"
+    },
+    {
+        "key": "6450",
+        "short_name": "kawhi-leonard",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3907823",
+        "short_name": "terance-mann",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4396818",
+        "short_name": "jordan-miller",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4397140",
+        "short_name": "kevin-porter-jr",
+        "team": "la-clippers"
+    },
+    {
+        "key": "2595516",
+        "short_name": "norman-powell",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3033",
+        "short_name": "pj-tucker",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4592216",
+        "short_name": "alondes-williams",
+        "team": "la-clippers"
+    },
+    {
+        "key": "4017837",
+        "short_name": "ivica-zubac",
+        "team": "la-clippers"
+    },
+    {
+        "key": "3135045",
+        "short_name": "grayson-allen",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "6580",
+        "short_name": "bradley-beal",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4397102",
+        "short_name": "bol-bol",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3136193",
+        "short_name": "devin-booker",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4432946",
+        "short_name": "jalen-bridges",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3947156",
+        "short_name": "mamadi-diakite",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4888725",
+        "short_name": "ryan-dunn",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3202",
+        "short_name": "kevin-durant",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4278585",
+        "short_name": "collin-gillespie",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4601023",
+        "short_name": "oso-ighodaro",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3135046",
+        "short_name": "tyus-jones",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "2579294",
+        "short_name": "frank-kaminsky",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "2595209",
+        "short_name": "damion-lee",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3059310",
+        "short_name": "monte-morris",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "3102530",
+        "short_name": "jusuf-nurkic",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "2583632",
+        "short_name": "royce-oneale",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4065663",
+        "short_name": "josh-okogie",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "2488653",
+        "short_name": "mason-plumlee",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4683749",
+        "short_name": "tyty-washington-jr",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4396657",
+        "short_name": "moses-wood",
+        "team": "phoenix-suns"
+    },
+    {
+        "key": "4683021",
+        "short_name": "deni-avdija",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4278129",
+        "short_name": "deandre-ayton",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4397885",
+        "short_name": "dalano-banton",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4431736",
+        "short_name": "toumani-camara",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "5105565",
+        "short_name": "donovan-clingan",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "3133601",
+        "short_name": "devonte-graham",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "2991070",
+        "short_name": "jerami-grant",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4683678",
+        "short_name": "scoot-henderson",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4576086",
+        "short_name": "bryce-mcgowens",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4278111",
+        "short_name": "justin-minaya",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4066808",
+        "short_name": "taze-moore",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4594326",
+        "short_name": "kris-murray",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4066268",
+        "short_name": "duop-reath",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "5099752",
+        "short_name": "rayan-rupert",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4914336",
+        "short_name": "shaedon-sharpe",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4351851",
+        "short_name": "anfernee-simons",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "3907498",
+        "short_name": "matisse-thybulle",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4432446",
+        "short_name": "jabari-walker",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4066211",
+        "short_name": "robert-williams-iii",
+        "team": "portland-trail-blazers"
+    },
+    {
+        "key": "4433188",
+        "short_name": "devin-carter",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4592857",
+        "short_name": "isaiah-crawford",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "3978",
+        "short_name": "demar-derozan",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4593106",
+        "short_name": "boogie-ellis",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4702177",
+        "short_name": "keon-ellis",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4066259",
+        "short_name": "deaaron-fox",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4066372",
+        "short_name": "kevin-huerter",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4433378",
+        "short_name": "colby-jones",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "5107818",
+        "short_name": "isaac-jones",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4395704",
+        "short_name": "mason-jones",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "3936296",
+        "short_name": "skal-labissiere",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "2596107",
+        "short_name": "alex-len",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "3136196",
+        "short_name": "trey-lyles",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4066731",
+        "short_name": "jalen-mcdaniels",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "3134916",
+        "short_name": "jordan-mclaughlin",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4066262",
+        "short_name": "malik-monk",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4594327",
+        "short_name": "keegan-murray",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4593049",
+        "short_name": "orlando-robinson",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "3155942",
+        "short_name": "domantas-sabonis",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4279815",
+        "short_name": "terry-taylor",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "4407254",
+        "short_name": "brodric-thomas",
+        "team": "sacramento-kings"
+    },
+    {
+        "key": "6578",
+        "short_name": "harrison-barnes",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4397886",
+        "short_name": "charles-bassey",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4432162",
+        "short_name": "brandon-boston-jr",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4565201",
+        "short_name": "malaki-branham",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4845367",
+        "short_name": "stephon-castle",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4592479",
+        "short_name": "julian-champagnie",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "5081727",
+        "short_name": "sidy-cissoko",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4066650",
+        "short_name": "zach-collins",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4397107",
+        "short_name": "david-duke-jr",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4066668",
+        "short_name": "malachi-flynn",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4433618",
+        "short_name": "harrison-ingram",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4395723",
+        "short_name": "keldon-johnson",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4395626",
+        "short_name": "tre-jones",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4278580",
+        "short_name": "sandro-mamukelashvili",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4397371",
+        "short_name": "nathan-mensah",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "5177362",
+        "short_name": "riley-minix",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "2779",
+        "short_name": "chris-paul",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4610139",
+        "short_name": "jeremy-sochan",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4395630",
+        "short_name": "devin-vassell",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "5104157",
+        "short_name": "victor-wembanyama",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "4683935",
+        "short_name": "blake-wesley",
+        "team": "san-antonio-spurs"
+    },
+    {
+        "key": "2991350",
+        "short_name": "alex-caruso",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4997526",
+        "short_name": "ousmane-dieng",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4397020",
+        "short_name": "luguentz-dort",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4432971",
+        "short_name": "alex-ducas",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4397654",
+        "short_name": "adam-flagler",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4278073",
+        "short_name": "shai-gilgeous-alexander",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4222252",
+        "short_name": "isaiah-hartenstein",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4433255",
+        "short_name": "chet-holmgren",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4395702",
+        "short_name": "isaiah-joe",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4702159",
+        "short_name": "dillon-jones",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4897449",
+        "short_name": "malevy-leons",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4900671",
+        "short_name": "ajay-mitchell",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4277812",
+        "short_name": "alex-reese",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4397114",
+        "short_name": "cormac-ryan",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "5159925",
+        "short_name": "nikola-topic",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4683692",
+        "short_name": "cason-wallace",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4397183",
+        "short_name": "aaron-wiggins",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4593803",
+        "short_name": "jalen-williams",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4432823",
+        "short_name": "jaylin-williams",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "3133626",
+        "short_name": "kenrich-williams",
+        "team": "oklahoma-city-thunder"
+    },
+    {
+        "key": "4593125",
+        "short_name": "santi-aldama",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4431674",
+        "short_name": "armando-bacot",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4066320",
+        "short_name": "desmond-bane",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "3906665",
+        "short_name": "brandon-clarke",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4600663",
+        "short_name": "zach-edey",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4065731",
+        "short_name": "jay-huff",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "5105550",
+        "short_name": "gg-jackson-ii",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4277961",
+        "short_name": "jaren-jackson-jr",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "5159895",
+        "short_name": "yuki-kawamura",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "3913174",
+        "short_name": "luke-kennard",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "3134932",
+        "short_name": "john-konchar",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4592691",
+        "short_name": "jake-laravia",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4279888",
+        "short_name": "ja-morant",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4066851",
+        "short_name": "miye-oni",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "5184018",
+        "short_name": "maozinha-pereira",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4431785",
+        "short_name": "scotty-pippen-jr",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "2990992",
+        "short_name": "marcus-smart",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4433083",
+        "short_name": "cam-spencer",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "5112087",
+        "short_name": "jaylen-wells",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4397227",
+        "short_name": "vince-williams-jr",
+        "team": "memphis-grizzlies"
+    },
+    {
+        "key": "4433268",
+        "short_name": "trey-alexander",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4431767",
+        "short_name": "christian-braun",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4230557",
+        "short_name": "vlatko-cancar",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3064290",
+        "short_name": "aaron-gordon",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4701225",
+        "short_name": "pj-hall",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4433607",
+        "short_name": "daron-holmes-ii",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3112335",
+        "short_name": "nikola-jokic",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4592427",
+        "short_name": "spencer-jones",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3442",
+        "short_name": "deandre-jordan",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4398356",
+        "short_name": "gabe-mcglothan",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3936299",
+        "short_name": "jamal-murray",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4431690",
+        "short_name": "zeke-nnaji",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4398390",
+        "short_name": "jalen-pickett",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4278104",
+        "short_name": "michael-porter-jr",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3032978",
+        "short_name": "dario-saric",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4432181",
+        "short_name": "julian-strawther",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4395620",
+        "short_name": "hunter-tyson",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4576087",
+        "short_name": "peyton-watson",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "3468",
+        "short_name": "russell-westbrook",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4431776",
+        "short_name": "jaylin-williams",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4433133",
+        "short_name": "jahmir-young",
+        "team": "denver-nuggets"
+    },
+    {
+        "key": "4397204",
+        "short_name": "colin-castleton",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4432582",
+        "short_name": "max-christie",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "6583",
+        "short_name": "anthony-davis",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4278402",
+        "short_name": "jordan-goodwin",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4066648",
+        "short_name": "rui-hachimura",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4397077",
+        "short_name": "jaxson-hayes",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "5105797",
+        "short_name": "jalen-hood-schifino",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4683774",
+        "short_name": "bronny-james",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "1966",
+        "short_name": "lebron-james",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "3950760",
+        "short_name": "kylor-kelley",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4897943",
+        "short_name": "dalton-knecht",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4431778",
+        "short_name": "christian-koloko",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4684286",
+        "short_name": "maxwell-lewis",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4432070",
+        "short_name": "quincy-olivari",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4066457",
+        "short_name": "austin-reaves",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4395627",
+        "short_name": "cam-reddish",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "3136776",
+        "short_name": "dangelo-russell",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "5104156",
+        "short_name": "armel-traore",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "4278077",
+        "short_name": "jarred-vanderbilt",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "3137259",
+        "short_name": "gabe-vincent",
+        "team": "los-angeles-lakers"
+    },
+    {
+        "key": "3058254",
+        "short_name": "christian-wood",
+        "team": "los-angeles-lakers"
+    }
+]

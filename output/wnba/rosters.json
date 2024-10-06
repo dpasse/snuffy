@@ -1,0 +1,722 @@
+[
+    {
+        "key": "3922628",
+        "short_name": "kennedy-burke",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "4433661",
+        "short_name": "marquesha-davis",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "5130672",
+        "short_name": "ivana-dojkic",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "4683006",
+        "short_name": "leonie-fiebich",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "4066533",
+        "short_name": "sabrina-ionescu",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "2999101",
+        "short_name": "jonquel-jones",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "2593770",
+        "short_name": "betnijah-laney-hamilton",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "4398768",
+        "short_name": "nyara-sabally",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "4433386",
+        "short_name": "jaylyn-sherrod",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "2998928",
+        "short_name": "breanna-stewart",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "2529622",
+        "short_name": "kayla-thornton",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "981",
+        "short_name": "courtney-vandersloot",
+        "team": "new-york-liberty"
+    },
+    {
+        "key": "3906972",
+        "short_name": "bridget-carleton",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "3917450",
+        "short_name": "napheesa-collier",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "4038390",
+        "short_name": "olivia-epoupa",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "3906753",
+        "short_name": "natisha-hiedeman",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "3142055",
+        "short_name": "myisha-hines-allen",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "4398938",
+        "short_name": "dorka-juhasz",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "2529205",
+        "short_name": "kayla-mcbride",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "4433635",
+        "short_name": "diamond-miller",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "5105752",
+        "short_name": "alissa-pili",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "3913881",
+        "short_name": "alanna-smith",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "2987891",
+        "short_name": "courtney-williams",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "4257500",
+        "short_name": "cecilia-zandalasini",
+        "team": "minnesota-lynx"
+    },
+    {
+        "key": "4398780",
+        "short_name": "caitlin-bickle",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "869",
+        "short_name": "dewanna-bonner",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "4398935",
+        "short_name": "veronica-burton",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "4066548",
+        "short_name": "dijonai-carrington",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "4065760",
+        "short_name": "tyasha-harris",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "3058895",
+        "short_name": "brionna-jones",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "3904576",
+        "short_name": "marina-mabrey",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "2984741",
+        "short_name": "tiffany-mitchell",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "3099025",
+        "short_name": "astou-ndour-fall",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "4398966",
+        "short_name": "olivia-nelson-ododa",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "2529140",
+        "short_name": "alyssa-thomas",
+        "team": "connecticut-sun"
+    },
+    {
+        "key": "4433633",
+        "short_name": "kierstan-bell",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "924",
+        "short_name": "alysha-clark",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "1004",
+        "short_name": "sydney-colson",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "4398779",
+        "short_name": "queen-egbo",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "2529122",
+        "short_name": "chelsea-gray",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "3934218",
+        "short_name": "megan-gustafson",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "1054",
+        "short_name": "tiffany-hayes",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "4398907",
+        "short_name": "kate-martin",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "3065570",
+        "short_name": "kelsey-plum",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "2590093",
+        "short_name": "kiah-stokes",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "3149391",
+        "short_name": "aja-wilson",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "4065870",
+        "short_name": "jackie-young",
+        "team": "las-vegas-aces"
+    },
+    {
+        "key": "2491205",
+        "short_name": "skylar-diggins-smith",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "4068161",
+        "short_name": "joyner-holmes",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "4432830",
+        "short_name": "jordan-horston",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "2987869",
+        "short_name": "jewell-loyd",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "4420318",
+        "short_name": "ezi-magbegor",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "4433468",
+        "short_name": "nika-muhl",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "1068",
+        "short_name": "nneka-ogwumike",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "3056672",
+        "short_name": "mercedes-russell",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "3142948",
+        "short_name": "victoria-vivians",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "887",
+        "short_name": "sami-whitcomb",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "3142328",
+        "short_name": "gabby-williams",
+        "team": "seattle-storm"
+    },
+    {
+        "key": "4398899",
+        "short_name": "grace-berger",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "4432831",
+        "short_name": "aliyah-boston",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "4433403",
+        "short_name": "caitlin-clark",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "2955898",
+        "short_name": "damiris-dantas",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "2569044",
+        "short_name": "temi-fagbenle",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "4398829",
+        "short_name": "lexie-hull",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "3142191",
+        "short_name": "kelsey-mitchell",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "3917453",
+        "short_name": "katie-lou-samuelson",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "4398752",
+        "short_name": "victaria-saxton",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "4398776",
+        "short_name": "nalyssa-smith",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "3156318",
+        "short_name": "kristy-wallace",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "2491214",
+        "short_name": "erica-wheeler",
+        "team": "indiana-fever"
+    },
+    {
+        "key": "3102133",
+        "short_name": "rebecca-allen",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4068885",
+        "short_name": "amy-atwell",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "3142255",
+        "short_name": "monique-billings",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "2529137",
+        "short_name": "natasha-cloud",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "2998938",
+        "short_name": "kahleah-copper",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "3907781",
+        "short_name": "sophie-cunningham",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "2490553",
+        "short_name": "brittney-griner",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4065759",
+        "short_name": "mikiah-herbert-harrigan",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4068042",
+        "short_name": "natasha-mack",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4433293",
+        "short_name": "charisma-osborne",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "585",
+        "short_name": "diana-taurasi",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4432864",
+        "short_name": "celeste-taylor",
+        "team": "phoenix-mercury"
+    },
+    {
+        "key": "4432834",
+        "short_name": "laeticia-amihere",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "4280850",
+        "short_name": "maya-caldwell",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "3142250",
+        "short_name": "jordin-canada",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "918",
+        "short_name": "tina-charles",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "3054590",
+        "short_name": "nia-coffey",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "4281183",
+        "short_name": "lorela-cubaj",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "3058901",
+        "short_name": "allisha-gray",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "4398915",
+        "short_name": "naz-hillmon",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "4398674",
+        "short_name": "rhyne-howard",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "4595910",
+        "short_name": "haley-jones",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "2531437",
+        "short_name": "ezinne-kalu",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "2529458",
+        "short_name": "cheyenne-parker-tyus",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "2999035",
+        "short_name": "aerial-powers",
+        "team": "atlanta-dream"
+    },
+    {
+        "key": "3146151",
+        "short_name": "ariel-atkins",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "4398911",
+        "short_name": "shakira-austin",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "2529183",
+        "short_name": "stefanie-dolson",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "4433408",
+        "short_name": "aaliyah-edwards",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "4398729",
+        "short_name": "emily-engstler",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "5017721",
+        "short_name": "sika-kone",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "5017726",
+        "short_name": "jade-melbourne",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "3056730",
+        "short_name": "karlie-samuelson",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "4068159",
+        "short_name": "sug-sutton",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "2988756",
+        "short_name": "brittney-sykes",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "2566110",
+        "short_name": "julie-vanloo",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "3058893",
+        "short_name": "shatori-walker-kimbrough",
+        "team": "washington-mystics"
+    },
+    {
+        "key": "3058908",
+        "short_name": "lindsay-allen",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "2566186",
+        "short_name": "rachel-banham",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "4433405",
+        "short_name": "kamilla-cardoso",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "4280892",
+        "short_name": "chennedy-carter",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "3058888",
+        "short_name": "kaela-davis",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "3058902",
+        "short_name": "diamond-deshields",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "4281190",
+        "short_name": "dana-evans",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "2566453",
+        "short_name": "isabelle-harrison",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "2998927",
+        "short_name": "moriah-jefferson",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "4282173",
+        "short_name": "michaela-onyenwere",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "4433402",
+        "short_name": "angel-reese",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "3142086",
+        "short_name": "brianna-turner",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "2566081",
+        "short_name": "elizabeth-williams",
+        "team": "chicago-sky"
+    },
+    {
+        "key": "3916514",
+        "short_name": "kalani-brown",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4066527",
+        "short_name": "jaelyn-brown",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "2529130",
+        "short_name": "natasha-howard",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4399114",
+        "short_name": "lou-lopez-senechal",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "3913903",
+        "short_name": "teaira-mccowan",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "3904577",
+        "short_name": "arike-ogunbowale",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4281929",
+        "short_name": "satou-sabally",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4432865",
+        "short_name": "jacy-sheldon",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4399415",
+        "short_name": "maddy-siegrist",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "5106150",
+        "short_name": "stephanie-soares",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "5209660",
+        "short_name": "sevgi-uzun",
+        "team": "dallas-wings"
+    },
+    {
+        "key": "4433404",
+        "short_name": "cameron-brink",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "3058892",
+        "short_name": "lexie-brown",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4398764",
+        "short_name": "rae-burrell",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4432832",
+        "short_name": "zia-cooke",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4066585",
+        "short_name": "crystal-dangerfield",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "2566106",
+        "short_name": "dearica-hamby",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4433630",
+        "short_name": "rickea-jackson",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4066553",
+        "short_name": "aari-mcdonald",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "3142327",
+        "short_name": "kia-nurse",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "2529047",
+        "short_name": "odyssey-sims",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "3142010",
+        "short_name": "azura-stevens",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "3099736",
+        "short_name": "stephanie-talbot",
+        "team": "los-angeles-sparks"
+    },
+    {
+        "key": "4422426",
+        "short_name": "li-yueru",
+        "team": "los-angeles-sparks"
+    }
+]
