@@ -20,3 +20,6 @@ class Team:
 
     def get_url(self) -> str:
         return f'https://www.espn.com/{self.sport.value}/team/_/name/{self.key}/{self.short_name}'
+
+    def get_roster(self) -> str:
+        return f'https://www.espn.com/{self.sport.value}/team/roster/_/name/{self.short_name}/{self.key}'

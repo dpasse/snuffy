@@ -12,7 +12,7 @@ from package.parsers.teams import extractTeamFromUrl
 
 def create_config_entry(sport: str) -> dict:
     return {
-        'output': f'./output/{sport}/',
+        'output': f'./output/{sport}/teams.json',
         'source': f'https://www.espn.com/{sport}/standings/_/group/league'
     }
 
@@ -33,12 +33,12 @@ def run(sport: str) -> None:
         if team:
             teams[team.key] = team
 
-        team.to_json()
-
-    with open(os.path.join(config['output'], 'teams.json'), 'w') as output_file:
+    all_teams = list(teams.values())
+    with open(os.path.join(config['output']), 'w') as output_file:
         output_file.write(
-            Team.schema().dumps(list(teams.values()), many=True, indent=4)
+            Team.schema().dumps(all_teams, many=True, indent=4)
         )
+
 
 if __name__ == '__main__':
     sport = sys.argv[1]

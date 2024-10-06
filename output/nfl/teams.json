@@ -1,12 +1,12 @@
 [
     {
-        "key": "kansas-city-chiefs",
-        "short_name": "kc",
+        "key": "minnesota-vikings",
+        "short_name": "min",
         "sport": "nfl"
     },
     {
-        "key": "minnesota-vikings",
-        "short_name": "min",
+        "key": "kansas-city-chiefs",
+        "short_name": "kc",
         "sport": "nfl"
     },
     {
@@ -50,18 +50,8 @@
         "sport": "nfl"
     },
     {
-        "key": "new-york-jets",
-        "short_name": "nyj",
-        "sport": "nfl"
-    },
-    {
         "key": "indianapolis-colts",
         "short_name": "ind",
-        "sport": "nfl"
-    },
-    {
-        "key": "new-orleans-saints",
-        "short_name": "no",
         "sport": "nfl"
     },
     {
@@ -70,8 +60,8 @@
         "sport": "nfl"
     },
     {
-        "key": "dallas-cowboys",
-        "short_name": "dal",
+        "key": "new-orleans-saints",
+        "short_name": "no",
         "sport": "nfl"
     },
     {
@@ -80,18 +70,23 @@
         "sport": "nfl"
     },
     {
+        "key": "dallas-cowboys",
+        "short_name": "dal",
+        "sport": "nfl"
+    },
+    {
         "key": "las-vegas-raiders",
         "short_name": "lv",
         "sport": "nfl"
     },
     {
-        "key": "philadelphia-eagles",
-        "short_name": "phi",
+        "key": "denver-broncos",
+        "short_name": "den",
         "sport": "nfl"
     },
     {
-        "key": "denver-broncos",
-        "short_name": "den",
+        "key": "philadelphia-eagles",
+        "short_name": "phi",
         "sport": "nfl"
     },
     {
@@ -107,6 +102,11 @@
     {
         "key": "san-francisco-49ers",
         "short_name": "sf",
+        "sport": "nfl"
+    },
+    {
+        "key": "new-york-jets",
+        "short_name": "nyj",
         "sport": "nfl"
     },
     {

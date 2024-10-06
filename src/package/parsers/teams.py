@@ -24,7 +24,7 @@ def convertToSportType(sport: str) -> SportType:
 
 def extractTeamFromUrl(url: str) -> Optional[Team]:
     match = re.match(
-        r'^/(\w+)/team/_/name/(\w+)/(.+)$',
+        r'^.*?/(\w+)/team/_/name/(\w+)/(.+)$',
         url,
         flags=re.IGNORECASE
     )
